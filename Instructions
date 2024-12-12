@@ -2,7 +2,7 @@
 1)create s3 bucket
 2)create 2 folders named input and output inside s3 bucket
 3)create lambda function(name,python version)
-4)in configuration tab==>select permisiion==>click role==>add permission==>s3 full access
+4)in configuration tab==>select permisiion==>click role==>add permission==>s3 full access,cloudwatchfulland v2
 5)in configyration==>general==>time  increase
 6)upload file in s3 bucket
 7)deploy py code
